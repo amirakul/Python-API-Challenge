@@ -10,7 +10,7 @@ First objective is to create a series of scatter plots to showcase the following
 
 After each plot add a sentence or too explaining what the code is and analyzing.
 
-Second obkective is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
+Second objective is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 * Southern Hemisphere - Temperature (F) vs. Latitude
@@ -21,6 +21,11 @@ Second obkective is to run linear regression on each relationship, only this tim
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
+These are how linear relationships look like on a graph:
+![graph1] (Images of Graphs/Cloudiness vs Latitude.png)
+![graph2] (Images of Graphs/Humidity vs Latitude.png)
+![graph3] (Images of Graphs/Temperature vs Latitude.png)
+![graph4] (Images of Graphs/WindSpeed vs Latitude.png)
 After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
 
 Final notebook must include:
@@ -52,3 +57,5 @@ To accomplish this objective, I did the following steps:
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
+This is how output looks like:
+![map with hotels](Images of Graphs/Map of Final Hotel List.png)
