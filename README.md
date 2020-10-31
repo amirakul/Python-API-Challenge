@@ -27,7 +27,13 @@ These are how relationships look like on a graph:
 * This graph shows that there is no direct relatipnship between cloudiness and latitude.
 
 ![graph2](Images_of_Graphs/Humidity_vs_Latitude.png)
+
+* From this graph, one can tell that humidity increases when latitude ranges from 60.
+
 ![graph3](Images_of_Graphs/Temperature_vs_Latitude.png)
+
+* We have quadratic linearship between temperature and latitude. Maximum temperature can be observable when latitude is around 20. 
+
 ![graph4](Images_of_Graphs/WindSpeed_vs_Latitude.png)
 
 After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
