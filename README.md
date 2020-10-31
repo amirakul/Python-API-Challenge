@@ -22,10 +22,12 @@ Second objective is to run linear regression on each relationship, only this tim
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 These are how relationships look like on a graph:
+
 ![graph1](Images_of_Graphs/Cloudiness_vs_Latitude.png)
 ![graph2](Images_of_Graphs/Humidity_vs_Latitude.png)
 ![graph3](Images_of_Graphs/Temperature_vs_Latitude.png)
 ![graph4](Images_of_Graphs/WindSpeed_vs_Latitude.png)
+
 After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
 
 Final notebook includes:
