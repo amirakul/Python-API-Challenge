@@ -68,4 +68,4 @@ To accomplish this objective, I did the following steps:
 Heres' how map with cities that have ideal weather :
 ![graph5](Images_of_Graphs/Map_of_Final_Hotel_List.png)
 
-* One can tell from the map that
+* One can tell from the map that the top 5 cities with ideal weather are located close to equator.
