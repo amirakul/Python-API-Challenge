@@ -36,6 +36,8 @@ These are how relationships look like on a graph:
 
 ![graph4](Images_of_Graphs/WindSpeed_vs_Latitude.png)
 
+* One can see that there is no direct correlation between windspeed and latitude.
+
 After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
 
 Final notebook includes:
@@ -65,8 +67,5 @@ To accomplish this objective, I did the following steps:
 
 Heres' how map with cities that have ideal weather :
 ![graph5](Images_of_Graphs/Map_of_Final_Hotel_List.png)
-* Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
-* Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
-This is how output looks like:
-![map with hotels](Images of Graphs/Map of Final Hotel List.png)
+* One can tell from the map that
