@@ -28,7 +28,7 @@ These are how relationships look like on a graph:
 ![graph4](Images_of_Graphs/WindSpeed_vs_Latitude.png)
 After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
 
-Final notebook must include:
+Final notebook includes:
 
 * Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
 * Perform a weather check on each of the cities using a series of successive API calls.
@@ -53,7 +53,8 @@ To accomplish this objective, I did the following steps:
 
   * Drop any rows that don't contain all three conditions. I wanted to be sure the weather is ideal.
 
-
+Heres' how map with cities that have ideal weather :
+![graph5](Images_of_Graphs/Map_of_Final_Hotel_List.png)
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
