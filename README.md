@@ -23,6 +23,9 @@ Second objective is to run linear regression on each relationship, only this tim
 These are how relationships look like on a graph:
 
 ![graph1](Images_of_Graphs/Cloudiness_vs_Latitude.png)
+
+* This graph shows that there is no direct relatipnship between cloudiness and latitude.
+
 ![graph2](Images_of_Graphs/Humidity_vs_Latitude.png)
 ![graph3](Images_of_Graphs/Temperature_vs_Latitude.png)
 ![graph4](Images_of_Graphs/WindSpeed_vs_Latitude.png)
